@@ -1,16 +1,35 @@
-### Hi there 👋
+# Nama Proyek
 
-<!--
-**diekisatria/diekisatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Deskripsi singkat proyek]
 
-Here are some ideas to get you started:
+## Daftar Isi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+- [Fitur](#fitur)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
+
+## Instalasi
+
+[Petunjuk instalasi langkah demi langkah]
+
+## Penggunaan
+
+[Cara penggunaan proyek]
+
+## Fitur
+
+- Fitur 1: [Deskripsi fitur]
+- Fitur 2: [Deskripsi fitur]
+
+## Kontribusi
+
+[Kebijakan kontribusi dan petunjuk untuk mengirimkan pull request]
+
+## Lisensi
+
+[Deskripsi lisensi proyek]
+
+[Lisensi](https://link.ke.lisensi)
+
